@@ -1,5 +1,5 @@
 # C#-bankmanager
-A bank management system written in C # language
+A bank management system written in C # language and course work. 
 
 ## 设计说明书
 
